@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://content.da.live/michael-smith-/spectrum/main
+    url: https://content.da.live/michael-smith-/spectrum/
     type: markup
     suffix: ".html"
