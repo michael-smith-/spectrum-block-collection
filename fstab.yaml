@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/michael-smith-/spectrum-block-collection/
+    url: https://content.da.live/michael-smith-/spectrum-block-collection/docs/
     type: markup
